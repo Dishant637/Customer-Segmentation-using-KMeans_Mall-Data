@@ -1,17 +1,18 @@
 # Customer Segmentation using K-Means Clustering
 
-Project Overview:-
+#Project Overview:-
 This project applies Unsupervised Machine Learning to segment mall customers based on their demographic and spending characteristics. Using the K-Means clustering algorithm, customers are grouped into distinct segments to identify patterns in purchasing behaviour and spending habits.
 The analysis helps businesses understand their customer base and develop more effective targeted marketing strategies.
 
-Technologies Used:- Python, Jupyter Notebook, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Dataset.
+#Technologies Used:- 
+Python, Jupyter Notebook, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Dataset.
 
 
-The project uses the Mall Customers Dataset, containing the following attributes:- 
+#The project uses the Mall Customers Dataset, containing the following attributes:- 
 Customer ID, Gender, Age, Annual Income (k$), Spending Score (1–100).
 
 
-Project Workflow:- 
+#Project Workflow:- 
 
 Data Loading: Imported the Mall Customers dataset using Pandas.
 
@@ -28,7 +29,7 @@ Model Building: Applied K-Means clustering using Scikit-learn.
 Customer Segmentation: Visualized and interpreted the resulting customer groups.
 
 
-Key Insights:-
+#Key Insights:-
 
 Identified distinct customer segments based on annual income and spending behaviour.
 
@@ -36,7 +37,7 @@ Observed different spending patterns across customer groups.
 
 Demonstrated how clustering can support customer profiling and targeted marketing strategies.
 
-Business Applications:-
+#Business Applications:-
 
 Targeted marketing campaigns
 
