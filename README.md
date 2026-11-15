@@ -3,7 +3,8 @@
 
 ## 📌 Overview
 
-This project applies Unsupervised Machine Learning to segment mall customers based on their demographic and spending characteristics. Using the K-Means Clustering algorithm, customers are grouped into distinct segments to identify purchasing patterns and support targeted marketing strategies.
+This project applies Unsupervised Machine Learning to segment mall customers based on their demographic and spending characteristics. Using the K-Means Clustering algorithm, customers are grouped into distinct segments to identify patterns in purchasing behaviour and spending habits.
+The analysis helps businesses understand their customer base and develop more effective targeted marketing strategies.
 
 ## 🎯 Business Problem
 
